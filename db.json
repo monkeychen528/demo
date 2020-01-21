@@ -1,14 +1,22 @@
-{
-  "posts": [
-    { "id": 1, "<img src='images/ruby-on-rails-7c597107.jpg' alt='' />n<div className='cardContent'>n<h5>Ruby on Rails 實戰課程-假日班</h5>n<p>2019-12-07</p>n<p className='lessoninfo'>" },
-    { "id": 2, "title": "test 2" },
-    { "id": 3, "title": "test 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+ {
+ 	"posts":[
+	{"id": 1,
+    "title": "Ruby on Rails 實戰課程-假日班",
+    "time": "2019-12-07",
+    "info": "後臺開發不是夢!實戰程度百分百的Ruby & Rails 課程。具備高度生產力，簡潔、有效率的編寫，即便是初學者也能快速上手的Ruby程式語言",
+    "speaker":"高見龍(Eddie Kao)|時數:30小時"
+  },
+	{"id": 2,
+    "title": "工作上用的到的函數是程式設計:從觀念到食物-假日班",
+    "time": "2020-02-22",
+    "info": " 隨著多核心電腦成為主流、分散式系統架構也成為顯學，函數式程式設計的重要性也與日俱增。跟物件導向程式設計相比，著重於用真正的意圖。因此當學會用與物件導向程式程計不同的角度來寫程式後，可以讓你在切換不同的程式語言時依然能游刃有餘。",
+    "speaker":"蘇秦安(Taian Su)|時數:9小時"
+  },
+	{"id": 3,
+    "title": "客製化進階 RWD 手機版網頁設計班 - 假日班",
+    "time": "2020-03-08",
+    "info": "你還在困擾網頁該怎麼做RWD嗎？講師手把手教學，帶你快速上手RWD，不僅教你技術及方法，還要建立你正確的網頁觀念，融會貫通後你將大幅提高自學能力，降低卡關浪費時間查找的困擾！",
+    "speaker":"講者:李建杭(Amos Lee)|時數:24小時"
+	}
+   ]
 }
